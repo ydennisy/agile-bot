@@ -1,0 +1,22 @@
+{
+  "name": "slackbot",
+  "version": "0.1.0",
+  "description": "slackbot for agile teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "agile",
+    "jira",
+    "product"
+  ],
+  "author": "Dennis Yurkevich",
+  "license": "MIT",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "underscore": "^1.8.3"
+  }
+}
